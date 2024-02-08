@@ -1,0 +1,6 @@
+{
+    "name": "remote",
+    "exposes": {
+      "./ZalAmin.vue": "./src/components/ZalAmin.vue"
+    }
+  }
